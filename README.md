@@ -1,6 +1,5 @@
 # trial-gate
 
-Readme :-
-
-Just a trial repo
+Readme :
+	Just a trial repo
 
